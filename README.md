@@ -2,6 +2,11 @@
 
 Currently, I am a final-year ECE student specializing in Electronics and Communication Engineering (ECE), with hands-on experience in circuit testing, hardware testing, product assembly, functional validation, IoT systems, and embedded hardware using Arduino, ESP32, and Raspberry Pi. I am seeking to contribute as an Electronics Engineer.
 
+- 🌱 Currently working on projects using **IoT and Embedded Systems**.
+- 🔧 Passionate about **Core Electronics, IoT, and Embedded System Development**.
+- 🛠️ Proficient in: **Circuit Testing** **Functional Testing** **Sensors Interfacing** **Soldering**
+- 🎯 Aspiring to become a skilled **Embedded Systems Engineer** in the future.
+- 🔗 Let's connect: [LinkedIn](https://www.linkedin.com/in/nitishkumar-link/) [GitHub](https://github.com/nitishkumar-git) [Email](mailto:nitishm1113@gmail.com)
 
 
 ### 🔌 Core Electronics
@@ -39,15 +44,6 @@ Currently, I am a final-year ECE student specializing in Electronics and Communi
 - C++  
 - Python (Basics)
 
-- 🌱 Currently working on projects using **IoT and Embedded Systems**.
-- 🔧 Passionate about **Core Electronics, IoT, and Embedded System Development**.
-- 🛠️ Proficient in:
-  - Circuit Testing  
-  - Functional Testing  
-  - Sensors Interfacing  
-  - Soldering
-- 🎯 Aspiring to become a skilled **Embedded Systems Engineer** in the future.
-- 🔗 Let's connect: [LinkedIn](https://www.linkedin.com/in/nitishkumar-link/) [GitHub](https://github.com/nitishkumar-git) [Email](mailto:nitishm1113@gmail.com)
 
 <!--
 **nitishkumar-git/nitishkumar-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

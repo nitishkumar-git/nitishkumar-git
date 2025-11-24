@@ -1,4 +1,4 @@
-## Hi I'm Nitish Kumar... 👋
+## Hi 👋 I'm Nitish Kumar...
 
 Currently, I am a final-year ECE student specializing in Electronics and Communication Engineering (ECE), with hands-on experience in circuit testing, hardware testing, product assembly, functional validation, IoT systems, and embedded hardware using Arduino, ESP32, and Raspberry Pi. I am seeking to contribute as an Electronics Engineer.
 

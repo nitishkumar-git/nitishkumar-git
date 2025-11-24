@@ -39,6 +39,16 @@ Currently, I am a final-year ECE student specializing in Electronics and Communi
 - C++  
 - Python (Basics)
 
+- 🌱 Currently working on projects using **IoT and Embedded Systems**.
+- 🔧 Passionate about **Core Electronics, IoT, and Embedded System Development**.
+- 🛠️ Proficient in:
+  - Circuit Testing  
+  - Functional Testing  
+  - Sensors Interfacing  
+  - Soldering
+- 🎯 Aspiring to become a skilled **Embedded Systems Engineer** in the future.
+- 🔗 Let's connect: [LinkedIn](https://www.linkedin.com/in/nitishkumar-link/) [GitHub](https://github.com/nitishkumar-git) [Email](mailto:nitishm1113@gmail.com)
+
 <!--
 **nitishkumar-git/nitishkumar-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

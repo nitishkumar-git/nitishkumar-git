@@ -20,7 +20,8 @@ Currently, I am a final-year ECE student specializing in Electronics and Communi
 - Product Testing & Validation  
 
 ### 🎛 Microcontrollers
-- Arduino Uno  
+- Arduino Uno
+- ESP8266 (NodeMCU)
 - ESP32  
 - Raspberry Pi  
 
@@ -40,7 +41,7 @@ Currently, I am a final-year ECE student specializing in Electronics and Communi
 - GitHub  
 
 ### 💻 Programming Languages
-- Embedded C  
+- C  
 - C++  
 - Python (Basics)
 
